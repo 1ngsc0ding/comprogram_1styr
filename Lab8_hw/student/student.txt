@@ -1,0 +1,8 @@
+69001,Ing,Computer Engineering,18
+69002,Tawan,Computer Engineering,19
+69003,Pim,Electrical Engineering,18
+69004,Boat,Computer Engineering,21
+69005,Title,Semi-Conductor Engineering,17
+69006,Baitong,Computer Engineering,18
+69007,Praew,Electrical Engineering,28
+69008,Nutjang,Industrial and Electrical Engineering,18

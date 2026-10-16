@@ -1,0 +1,5 @@
+Input: merged_file.pdf
+Pages: 863
+Pages with extractable text: 863
+Pages with no extractable text: 0
+Method: direct PDF text extraction (the PDF contains selectable text); not image OCR.
